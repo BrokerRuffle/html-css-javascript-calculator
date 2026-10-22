@@ -32,8 +32,7 @@
 </div>
 
 <div align="center">
-  <img width="1200" height="675" alt="1__EAyhSvG9NmRRoZjws0tMw" src="https://github.com/user-attachments/assets/89b2b240-b1d9-4f54-b0b3-3403e495022f" />
-
+  <img width="1200" height="675" alt="1__EAyhSvG9NmRRoZjws0tMw" src="https://github.com/user-attachments/assets/b69217c6-c6c4-44b4-9e81-f2be2fa58fe7" />
 </div>
 
 ---
